@@ -21,7 +21,7 @@ $ npm install
 ## Despliegue de la aplicación en modo desarrollo
 
 ### Consola
-Encontradose dentro de `front-crud-test` usando la configuración por defecto:
+Encontradose dentro de `weather-api` usando la configuración por defecto:
 ```
 npm start
 ```
